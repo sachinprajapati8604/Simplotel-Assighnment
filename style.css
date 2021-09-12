@@ -26,7 +26,7 @@
   width: 100%;
 }
 .bar .in {
-  animation: fill 5s linear 1;
+  animation: fill 20s linear 1;
   height: 100%;
   background-color: #800080;
 }
